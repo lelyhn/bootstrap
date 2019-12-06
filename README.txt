@@ -1,3 +1,9 @@
+My first Bootstrap page using Material Design for Bootstrap.
+
+Helped me feel my wya around Boostrap and who to work around it. 
+
+----
+
 Material Design for Bootstrap
 Version: MDB FREE 4.10.0
 
